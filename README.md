@@ -20,6 +20,19 @@
     This contains a read images function and blurring function using filter2D functions. Other filtering
     techniques are also mentioned in the code (but is commented)
     
- # 6. 
+ # 6. Edge Detection
+    Two functions called apply_gradient() and edge_detect() are written in a form that can be used in other 
+    codes as well. The image used here is of a pikachu. (pika-pika). Result can be found in the same folder. 
+    The images are shown only if the condition is provided. It comes in handy when we just want to read a 
+    particular image and not show it. 
+    
+ # 7. Template Matching
+    Template matching is one of the important and interesting fields used in various applications like self
+    driving cars, etc. I have made use of the Super Mario obstacles for this code.
+    In the folder Where's Waldo the template matching is performed to find Waldo from the image. Both the
+    templates and images used are in the folder.
+    
+ # 8. Face and Eye Detector Project
+    Using the dataset from openCV itself, face and eye can be detected on a Video Feed or any image. 
     
     
